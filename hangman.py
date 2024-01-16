@@ -188,4 +188,4 @@ def hangman():
         else:
             print('Enter a valid answer')
 
-#hangman()
+hangman()
